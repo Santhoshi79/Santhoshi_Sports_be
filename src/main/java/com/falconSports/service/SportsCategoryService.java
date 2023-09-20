@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.falconSports.entity.Organization;
+
 import com.falconSports.entity.SportsCategory;
 import com.falconSports.exception.IdNotFoundException;
 import com.falconSports.exception.ResourceNotFoundException;

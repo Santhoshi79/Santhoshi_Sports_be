@@ -2,7 +2,7 @@ package com.falconSports.entity;
 
 
 
-import org.hibernate.annotations.Where;
+
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

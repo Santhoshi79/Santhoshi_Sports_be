@@ -5,11 +5,11 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.falconSports.entity.Organization;
+
 import com.falconSports.entity.SportsCategory;
 import com.falconSports.exception.IdNotFoundException;
 import com.falconSports.exception.ResourceNotFoundException;
-import com.falconSports.repository.OrganizationRepository;
+
 import com.falconSports.repository.SportsCategoryRepository;
 
 @Service

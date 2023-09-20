@@ -23,7 +23,7 @@ import com.falconSports.service.TeamService;
 @CrossOrigin
 @RestController
 @RequestMapping("/api/sports")
-public class TeamContoller {
+public class TeamController {
 	
 	@Autowired
 	private TeamService teamService;

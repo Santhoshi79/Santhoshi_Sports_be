@@ -3,7 +3,6 @@ package com.falconSports.entity;
 import java.time.LocalDateTime;
 
 
-import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
